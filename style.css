@@ -227,23 +227,19 @@ i{
 /*Couleurs*/
 .coul1{
     color: #fd8d5d;
-    font-family: "Poppins", sans-serif;
 
 }
 
 .coul2{
     color: #fd9c5d;
-    font-family: "Poppins", sans-serif;
 }
 
 .coulb{
     color: black;
-    font-family: "Poppins", sans-serif;
 }
 
 .coulw{
     color: white;
-    font-family: "Poppins", sans-serif;
 }
 
 .bg1{
@@ -254,4 +250,9 @@ i{
 .border-radius-15{
     border-radius: 15px;
 
+}
+
+/*Police*/
+.font{
+    font-family: "Poppins", sans-serif;
 }
